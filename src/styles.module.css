@@ -1,0 +1,76 @@
+.containerPrincipal{
+  background-color: #D5DDF1;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img01{
+  width: 300px;
+  height: 100px;
+}
+.form{
+  background-color: white;
+  width: 35vw;
+  height: 87vh;
+  border-radius: 8px;
+  box-shadow: 1px 1px 4px 0px black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.model{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.form2{
+  background-color: #D5DDF1;
+  display: flex;
+  flex-direction: column;
+  width: 34vw;
+  height: 40vh;
+  align-items: center;
+}
+.endereco{
+  padding: 15px;
+  width: 32vw;
+}
+.botao{
+  text-align: center;
+  padding: 15px;
+  width: 32vw;
+}
+.font{
+  padding: 12px;
+}
+.link{
+  padding-top: 16px;
+}
+.font2{
+  background-color: #D5DDF1;
+  width: 34vw;
+  height: 16vh;
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.paragraph{
+  margin-top: 15px;
+  font-weight: 700;
+}
+.link2{
+  margin-top: 18px;
+  font-weight: 900;
+}
+.borda{
+  background-color: #abc0ef;
+  width: 34vw;
+  height: 6vh;
+  margin-top: 8px;
+  text-align: center;
+}
+.footer{
+  margin-top: 4px;
+}
