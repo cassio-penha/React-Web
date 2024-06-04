@@ -1,8 +1,9 @@
-# React + Vite
+<h1>Projeto Individual</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>Modelo de site do Orkut original</h2>
 
-Currently, two official plugins are available:
+![modelo-orkut](https://github.com/cassio-penha/React-Web/assets/162381081/ac15b976-dbd1-4006-893d-c0d5f9f99678)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>Clone do site</h2>
+
+![Orkut-modelo-Firefox](https://github.com/cassio-penha/React-Web/assets/162381081/733fe2bf-5b10-4024-b87d-81ff4834831f)
